@@ -1,0 +1,265 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\git_Repo\\project1\\API\\Login_app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE163039-F8F1-EAA2-1660-02DE8EE89EF4}|Login_app\\Login_app.csproj|d:\\git_repo\\project1\\api\\login_app\\login_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE163039-F8F1-EAA2-1660-02DE8EE89EF4}|Login_app\\Login_app.csproj|solutionrelative:login_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE163039-F8F1-EAA2-1660-02DE8EE89EF4}|Login_app\\Login_app.csproj|d:\\git_repo\\project1\\api\\login_app\\login_app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EE163039-F8F1-EAA2-1660-02DE8EE89EF4}|Login_app\\Login_app.csproj|solutionrelative:login_app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15EACA3-AFBC-A37C-50C9-1859688796C9}|Login_Application\\Login_Application.csproj|d:\\git_repo\\project1\\api\\login_app\\login_application\\dtos\\profiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D15EACA3-AFBC-A37C-50C9-1859688796C9}|Login_Application\\Login_Application.csproj|solutionrelative:login_application\\dtos\\profiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE163039-F8F1-EAA2-1660-02DE8EE89EF4}|Login_app\\Login_app.csproj|d:\\git_repo\\project1\\api\\login_app\\login_app\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE163039-F8F1-EAA2-1660-02DE8EE89EF4}|Login_app\\Login_app.csproj|solutionrelative:login_app\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3808BA8-DD01-CE23-60F3-F62AA7104668}|Login_Infrastructure\\Login_Infrastructure.csproj|d:\\git_repo\\project1\\api\\login_app\\login_infrastructure\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3808BA8-DD01-CE23-60F3-F62AA7104668}|Login_Infrastructure\\Login_Infrastructure.csproj|solutionrelative:login_infrastructure\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15EACA3-AFBC-A37C-50C9-1859688796C9}|Login_Application\\Login_Application.csproj|d:\\git_repo\\project1\\api\\login_app\\login_application\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D15EACA3-AFBC-A37C-50C9-1859688796C9}|Login_Application\\Login_Application.csproj|solutionrelative:login_application\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15EACA3-AFBC-A37C-50C9-1859688796C9}|Login_Application\\Login_Application.csproj|d:\\git_repo\\project1\\api\\login_app\\login_application\\interfaces\\icurrentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D15EACA3-AFBC-A37C-50C9-1859688796C9}|Login_Application\\Login_Application.csproj|solutionrelative:login_application\\interfaces\\icurrentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3808BA8-DD01-CE23-60F3-F62AA7104668}|Login_Infrastructure\\Login_Infrastructure.csproj|d:\\git_repo\\project1\\api\\login_app\\login_infrastructure\\services\\currentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3808BA8-DD01-CE23-60F3-F62AA7104668}|Login_Infrastructure\\Login_Infrastructure.csproj|solutionrelative:login_infrastructure\\services\\currentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3808BA8-DD01-CE23-60F3-F62AA7104668}|Login_Infrastructure\\Login_Infrastructure.csproj|d:\\git_repo\\project1\\api\\login_app\\login_infrastructure\\repos\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3808BA8-DD01-CE23-60F3-F62AA7104668}|Login_Infrastructure\\Login_Infrastructure.csproj|solutionrelative:login_infrastructure\\repos\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15EACA3-AFBC-A37C-50C9-1859688796C9}|Login_Application\\Login_Application.csproj|d:\\git_repo\\project1\\api\\login_app\\login_application\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D15EACA3-AFBC-A37C-50C9-1859688796C9}|Login_Application\\Login_Application.csproj|solutionrelative:login_application\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15EACA3-AFBC-A37C-50C9-1859688796C9}|Login_Application\\Login_Application.csproj|d:\\git_repo\\project1\\api\\login_app\\login_application\\interfaces\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D15EACA3-AFBC-A37C-50C9-1859688796C9}|Login_Application\\Login_Application.csproj|solutionrelative:login_application\\interfaces\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3808BA8-DD01-CE23-60F3-F62AA7104668}|Login_Infrastructure\\Login_Infrastructure.csproj|d:\\git_repo\\project1\\api\\login_app\\login_infrastructure\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3808BA8-DD01-CE23-60F3-F62AA7104668}|Login_Infrastructure\\Login_Infrastructure.csproj|solutionrelative:login_infrastructure\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C958970-8681-CB4C-0E7A-28F109D25435}|Login_Domain\\Login_Domain.csproj|d:\\git_repo\\project1\\api\\login_app\\login_domain\\models\\registeruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C958970-8681-CB4C-0E7A-28F109D25435}|Login_Domain\\Login_Domain.csproj|solutionrelative:login_domain\\models\\registeruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15EACA3-AFBC-A37C-50C9-1859688796C9}|Login_Application\\Login_Application.csproj|d:\\git_repo\\project1\\api\\login_app\\login_application\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D15EACA3-AFBC-A37C-50C9-1859688796C9}|Login_Application\\Login_Application.csproj|solutionrelative:login_application\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3808BA8-DD01-CE23-60F3-F62AA7104668}|Login_Infrastructure\\Login_Infrastructure.csproj|d:\\git_repo\\project1\\api\\login_app\\login_infrastructure\\data\\logindbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3808BA8-DD01-CE23-60F3-F62AA7104668}|Login_Infrastructure\\Login_Infrastructure.csproj|solutionrelative:login_infrastructure\\data\\logindbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProfileDto.cs",
+              "DocumentMoniker": "D:\\git_Repo\\project1\\API\\Login_app\\Login_Application\\DTOs\\ProfileDto.cs",
+              "RelativeDocumentMoniker": "Login_Application\\DTOs\\ProfileDto.cs",
+              "ToolTip": "D:\\git_Repo\\project1\\API\\Login_app\\Login_Application\\DTOs\\ProfileDto.cs",
+              "RelativeToolTip": "Login_Application\\DTOs\\ProfileDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T08:03:06.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICurrentUserService.cs",
+              "DocumentMoniker": "D:\\git_Repo\\project1\\API\\Login_app\\Login_Application\\Interfaces\\ICurrentUserService.cs",
+              "RelativeDocumentMoniker": "Login_Application\\Interfaces\\ICurrentUserService.cs",
+              "ToolTip": "D:\\git_Repo\\project1\\API\\Login_app\\Login_Application\\Interfaces\\ICurrentUserService.cs",
+              "RelativeToolTip": "Login_Application\\Interfaces\\ICurrentUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T07:29:26.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\git_Repo\\project1\\API\\Login_app\\Login_Application\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Login_Application\\Interfaces\\IAuthService.cs",
+              "ToolTip": "D:\\git_Repo\\project1\\API\\Login_app\\Login_Application\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "Login_Application\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T06:30:29.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\git_Repo\\project1\\API\\Login_app\\Login_Infrastructure\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Login_Infrastructure\\Services\\AuthService.cs",
+              "ToolTip": "D:\\git_Repo\\project1\\API\\Login_app\\Login_Infrastructure\\Services\\AuthService.cs",
+              "RelativeToolTip": "Login_Infrastructure\\Services\\AuthService.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAlwFIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T17:57:00.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\git_Repo\\project1\\API\\Login_app\\Login_app\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Login_app\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\git_Repo\\project1\\API\\Login_app\\Login_app\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Login_app\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAA3wDgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T02:04:00.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\git_Repo\\project1\\API\\Login_app\\Login_app\\Program.cs",
+              "RelativeDocumentMoniker": "Login_app\\Program.cs",
+              "ToolTip": "D:\\git_Repo\\project1\\API\\Login_app\\Login_app\\Program.cs",
+              "RelativeToolTip": "Login_app\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T16:46:07.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\git_Repo\\project1\\API\\Login_app\\Login_app\\appsettings.json",
+              "RelativeDocumentMoniker": "Login_app\\appsettings.json",
+              "ToolTip": "D:\\git_Repo\\project1\\API\\Login_app\\Login_app\\appsettings.json",
+              "RelativeToolTip": "Login_app\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-28T02:19:25.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CurrentUserService.cs",
+              "DocumentMoniker": "D:\\git_Repo\\project1\\API\\Login_app\\Login_Infrastructure\\Services\\CurrentUserService.cs",
+              "RelativeDocumentMoniker": "Login_Infrastructure\\Services\\CurrentUserService.cs",
+              "ToolTip": "D:\\git_Repo\\project1\\API\\Login_app\\Login_Infrastructure\\Services\\CurrentUserService.cs",
+              "RelativeToolTip": "Login_Infrastructure\\Services\\CurrentUserService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T07:34:21.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\git_Repo\\project1\\API\\Login_app\\Login_Infrastructure\\Repos\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Login_Infrastructure\\Repos\\UserRepository.cs",
+              "ToolTip": "D:\\git_Repo\\project1\\API\\Login_app\\Login_Infrastructure\\Repos\\UserRepository.cs",
+              "RelativeToolTip": "Login_Infrastructure\\Repos\\UserRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T17:57:07.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "D:\\git_Repo\\project1\\API\\Login_app\\Login_Application\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Login_Application\\DTOs\\LoginDto.cs",
+              "ToolTip": "D:\\git_Repo\\project1\\API\\Login_app\\Login_Application\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "Login_Application\\DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T10:35:33.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IJwtService.cs",
+              "DocumentMoniker": "D:\\git_Repo\\project1\\API\\Login_app\\Login_Application\\Interfaces\\IJwtService.cs",
+              "RelativeDocumentMoniker": "Login_Application\\Interfaces\\IJwtService.cs",
+              "ToolTip": "D:\\git_Repo\\project1\\API\\Login_app\\Login_Application\\Interfaces\\IJwtService.cs",
+              "RelativeToolTip": "Login_Application\\Interfaces\\IJwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T10:44:16.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "D:\\git_Repo\\project1\\API\\Login_app\\Login_Infrastructure\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "Login_Infrastructure\\Services\\JwtService.cs",
+              "ToolTip": "D:\\git_Repo\\project1\\API\\Login_app\\Login_Infrastructure\\Services\\JwtService.cs",
+              "RelativeToolTip": "Login_Infrastructure\\Services\\JwtService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAhwCoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T10:47:05.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegisterUser.cs",
+              "DocumentMoniker": "D:\\git_Repo\\project1\\API\\Login_app\\Login_Domain\\Models\\RegisterUser.cs",
+              "RelativeDocumentMoniker": "Login_Domain\\Models\\RegisterUser.cs",
+              "ToolTip": "D:\\git_Repo\\project1\\API\\Login_app\\Login_Domain\\Models\\RegisterUser.cs",
+              "RelativeToolTip": "Login_Domain\\Models\\RegisterUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T11:33:21.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "D:\\git_Repo\\project1\\API\\Login_app\\Login_Application\\DTOs\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "Login_Application\\DTOs\\RegisterDto.cs",
+              "ToolTip": "D:\\git_Repo\\project1\\API\\Login_app\\Login_Application\\DTOs\\RegisterDto.cs",
+              "RelativeToolTip": "Login_Application\\DTOs\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T03:47:24.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginDbContext.cs",
+              "DocumentMoniker": "D:\\git_Repo\\project1\\API\\Login_app\\Login_Infrastructure\\Data\\LoginDbContext.cs",
+              "RelativeDocumentMoniker": "Login_Infrastructure\\Data\\LoginDbContext.cs",
+              "ToolTip": "D:\\git_Repo\\project1\\API\\Login_app\\Login_Infrastructure\\Data\\LoginDbContext.cs",
+              "RelativeToolTip": "Login_Infrastructure\\Data\\LoginDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T17:16:38.741Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
