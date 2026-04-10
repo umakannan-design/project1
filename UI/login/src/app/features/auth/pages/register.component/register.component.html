@@ -1,0 +1,32 @@
+<div class="container">
+    <form [formGroup]="form" (ngSubmit)="onSubmit()" class="card">
+
+        <h2>Create Account 🚀</h2>
+
+        <input type="text" placeholder="Name" formControlName="name" />
+        <input type="email" placeholder="Email" formControlName="email" />
+        <input type="password" placeholder="Password" formControlName="password" />
+        <input type="password" placeholder="Confirm Password" formControlName="confirmPassword" />
+        <input type="text" placeholder="Phone" formControlName="phone" />
+
+        <select formControlName="role">
+            <option value="">-- Select Role --</option>
+            <option *ngFor="let role of roleArray; let i = index" [value]="role.value">
+                {{ role.name }}
+            </option>
+        </select>
+        <button type="submit" [disabled]="loading()">
+            {{ loading() ? 'Registering...' : 'Register' }}
+        </button>
+        @if(successMsg){
+        <p class="success">{{ successMsg }}</p>
+        }@else if(errorMsg){
+        <p class="error">{{ errorMsg }}</p>
+        }
+
+        <p class="link" >
+            Already have an account? <a routerLink="/login">Login</a>
+        </p>
+
+    </form>
+</div>

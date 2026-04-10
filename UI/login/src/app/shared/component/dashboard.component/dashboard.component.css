@@ -1,0 +1,19 @@
+.dashboard-container {
+  height: 100vh;
+  background: #f4f6f9;
+}
+
+.toolbar {
+  display: flex;
+}
+
+.spacer {
+  flex: 1;
+}
+
+.profile-card {
+  max-width: 400px;
+  margin: 50px auto;
+  padding: 20px;
+  border-radius: 12px;
+}

@@ -1,0 +1,42 @@
+.container {
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+}
+
+.card {
+  width: 320px;
+  padding: 30px;
+  border-radius: 12px;
+  background: white;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+}
+
+h2 {
+  text-align: center;
+}
+
+input {
+  width: 100%;
+  margin: 10px 0;
+  padding: 10px;
+}
+
+button {
+  width: 100%;
+  padding: 10px;
+  background: #6366f1;
+  color: white;
+  border: none;
+  border-radius: 6px;
+}
+
+.error {
+  color: red;
+  font-size: 13px;
+}
+
+.link {
+  text-align: center;
+  margin-top: 10px;
+}

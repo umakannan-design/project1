@@ -1,0 +1,22 @@
+<div class="dashboard-container">
+
+  <mat-toolbar color="primary" class="toolbar">
+    <span>My App</span>
+    <span class="spacer"></span>
+    <button mat-button (click)="logout()">Logout</button>
+  </mat-toolbar>
+
+  <mat-card class="profile-card">
+
+    <mat-card-title>Welcome 👋</mat-card-title>
+
+    <mat-card-content>
+      <p><strong>Name:</strong> {{ user?.userName }}</p>
+      <p><strong>Email:</strong> {{ user?.email }}</p>
+      <p><strong>Role:</strong> {{ user?.role }}</p>
+    </mat-card-content>
+
+  </mat-card>
+
+</div>
+<!-- <button style="width: 20%;" (click)="logout()">logout</button> -->
